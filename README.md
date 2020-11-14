@@ -1,1 +1,1 @@
-# Python Work From Year 1 And 2 Of BSc Physics
+# Python Work From Year 1 and 2 of BSc Physics
