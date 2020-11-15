@@ -4,3 +4,5 @@ The work contained within this folder was completed during my 1<sup>st</sup> yea
 The work in my 1<sup>st</sup> year of learning Python is mostly introductory as it was the 1<sup>st</sup> time I had been introduced to programming.
 
 Further information about the work completed will be contained within the folders shown.
+
+NOTE: All code shown in this folder has been written solely by me!
