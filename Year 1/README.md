@@ -10,3 +10,7 @@ Large Projects:
 2. Final Assignment - Use of Python and Classical Mechanics to code a game similar to "Angry Birds"
 
 NOTE: All code shown in this folder has been written solely by me!
+
+### Languages:
+<a href="#"><img align="left" alt="Python" height="25px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="#"><img align="left" alt="Markdown" height="25px" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
